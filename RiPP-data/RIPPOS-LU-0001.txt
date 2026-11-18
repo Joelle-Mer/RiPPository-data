@@ -30,7 +30,7 @@ COMMENT: MiBIG BGC0000473
 COMMENT: GenBank AM774406.1
 COMMENT: BIOACTIVITY Grazer; target: Thamnocephalus platyurus (freshwater crustacean); IC50: 30.5 uM
 
-PK$SPLASH: splash10-1e4bbd421c-f857160dfc-b4b6644a55
+PK$SPLASH: splash10-014i-0011790000-cb7564397f23258fb9fc
 PK$NUM_PEAK: 147
 PK$PEAK: m/z int. rel.int.
   154.3700 2974.0000 2

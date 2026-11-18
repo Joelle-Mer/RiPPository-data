@@ -30,7 +30,7 @@ COMMENT: BIOACTIVITY Antimicrobial; target: Staphylococcus aureus MRSA; MIC: 8-1
 COMMENT: BIOACTIVITY Antimicrobial; target: Streptococcus pyogenes; MIC: 0.5 ug/mL
 COMMENT: BIOACTIVITY Antimicrobial; target: Enterococcus faecalis (VRE Van A); MIC: 64 ug/mL
 
-PK$SPLASH: splash10-8bf5b8ae4e-f0909658bd-513a6da7ab
+PK$SPLASH: splash10-0002-9021000000-043639e830b22eb5baae
 PK$NUM_PEAK: 114
 PK$PEAK: m/z int. rel.int.
   159.0989 77.0000 34
