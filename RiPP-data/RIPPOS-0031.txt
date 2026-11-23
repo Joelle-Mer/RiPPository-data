@@ -1,0 +1,46 @@
+ACCESSION: RIPPOS-0031
+RECORD_TITLE: Segetalin A; LC-ESI-ITFT; MS2; HCD 15 (unit not stated by the library); [M+NH4]+
+DATE: 2026.11.23
+AUTHORS: Brungs C, Pluskal T
+LICENSE: CC BY-SA
+PROJECT: RiPPository
+COMMENT: CONFIDENCE spectral library reference spectrum; identity and structure checked by hand against the literature
+COMMENT: MassIVE MSV000094528 (dataset DOI 10.25345/C5610W36Q; license CC0 1.0 Universal (CC0 1.0))
+COMMENT: USI mzspec:MSV000094528:20230404_pluskal_nih_15P_G3_id_positive:475
+COMMENT: AUTHORS are the people who uploaded this spectrum to MassIVE MSV000094528, from which it was taken; they did not submit it to RiPPository
+COMMENT: Instrument from MassIVE metadata of MSV000094528
+COMMENT: RiPP class from the curator: made from the precursor presegetalin A1 (Barber 2013, Chekan 2017, as cited in Qin et al. 2025, PMC12143145); sequence in Liu et al. 2025 (PMC12667733); class assigned by the curator
+COMMENT: Structure: curated SMILES
+COMMENT: Precursor m/z read from the library record
+CH$NAME: Segetalin A
+CH$COMPOUND_CLASS: Natural Product; RiPP; Orbitide
+CH$FORMULA: C31H43N7O6
+CH$EXACT_MASS: 609.32748
+CH$SMILES: CC(C)[C@@H]1NC(=O)[C@@H]2CCCN2C(=O)[C@H](C(C)C)NC(=O)CNC(=O)[C@H](C)NC(=O)[C@H](Cc2c[nH]c3ccccc23)NC1=O
+CH$IUPAC: InChI=1S/C31H43N7O6/c1-16(2)25-30(43)35-22(13-19-14-32-21-10-7-6-9-20(19)21)28(41)34-18(5)27(40)33-15-24(39)36-26(17(3)4)31(44)38-12-8-11-23(38)29(42)37-25/h6-7,9-10,14,16-18,22-23,25-26,32H,8,11-13,15H2,1-5H3,(H,33,40)(H,34,41)(H,35,43)(H,36,39)(H,37,42)/t18-,22-,23-,25-,26-/m0/s1
+CH$LINK: INCHIKEY YVUZOKYOUUCVBV-WJTDBPPMSA-N
+CH$LINK: PUBCHEM CID:10483858
+AC$INSTRUMENT: Thermo Scientific Orbitrap ID-X
+AC$INSTRUMENT_TYPE: LC-ESI-ITFT
+AC$MASS_SPECTROMETRY: MS_TYPE MS2
+AC$MASS_SPECTROMETRY: ION_MODE POSITIVE
+AC$MASS_SPECTROMETRY: IONIZATION ESI
+AC$MASS_SPECTROMETRY: FRAGMENTATION_MODE HCD
+AC$MASS_SPECTROMETRY: COLLISION_ENERGY 15 (unit not stated by the library)
+MS$FOCUSED_ION: PRECURSOR_M/Z 627.36131
+MS$FOCUSED_ION: PRECURSOR_TYPE [M+NH4]+
+PK$SPLASH: splash10-03di-0001009000-d056dcdd5b100985f323
+PK$NUM_PEAK: 11
+PK$PEAK: m/z int. rel.int.
+  67.8169 0.0219 22
+  79.0209 0.0862 86
+  113.0593 0.0627 63
+  341.2112 0.0227 23
+  359.2212 0.0408 41
+  369.2063 0.0307 31
+  387.2171 0.0315 31
+  405.2273 0.1070 107
+  511.2658 0.0226 23
+  582.3406 0.0220 22
+  610.3352 1.0000 999
+//
